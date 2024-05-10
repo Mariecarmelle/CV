@@ -1,0 +1,47 @@
+body {
+    background-color: #F8C8DC;
+    /* margin: 0 auto; */
+    width: 50%;
+}
+
+.bloc_gauche {
+    float: left;
+    background-color: #F8C8DC;
+    padding: 10px;
+}
+
+.bloc_gauche .img img{
+    padding-left: 0%;
+    border: 10px solid;
+}
+.bloc_gauche .centreint .int{
+    margin: 100;
+    
+}
+.bloc_gauche .infop a{
+    list-style: none;
+    text-decoration: none;
+}
+
+.bloc_droit ul li{
+    text-decoration: none;
+    list-style-type: none;
+}
+.bloc_droit{ 
+    height: 800px; 
+margin-left: 300px;
+margin-top: 0vh;
+text-align: center;
+list-style: none;
+}
+.h4{
+   text-decoration: underline;
+}
+.forme{
+    font-style: italic;
+}
+h3{
+    text-decoration: overline;
+}
+
+
